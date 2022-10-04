@@ -17,5 +17,6 @@ https://drive.google.com/file/d/1hm3FOiCQ7I2-ZjGgLRXUJjJCvDZXJ7zz/view?usp=shari
 
 video explicando:
 parte 1: https://drive.google.com/file/d/1TdwN2BBJiAmI5IdeS_2TTN8VPi8h9vp2
+
 parte 2: https://drive.google.com/file/d/1_jBTd4mnPjeDWDUkETsWx1SPedX0bp47
 
