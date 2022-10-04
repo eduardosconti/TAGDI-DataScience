@@ -1,7 +1,8 @@
 # TAGDI-DataScience
 
 
-parte 2:
+parte 1:
+
 link do colab: 
 https://colab.research.google.com/drive/1F61llcm-BVzRl5bq-oT7poxQPd9Yp2id?usp=sharing
 
@@ -10,6 +11,7 @@ https://drive.google.com/file/d/133YNEvXFzzeP5nMncCWQ1erI-t7QUwka/view
 
 
 parte 2:
+
 link do colab:
 https://drive.google.com/file/d/1hm3FOiCQ7I2-ZjGgLRXUJjJCvDZXJ7zz/view?usp=sharing
 
